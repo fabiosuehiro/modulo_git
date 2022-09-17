@@ -1,0 +1,30 @@
+Powershell
+
+Listar o conteúdo da pasta
+Comando "dir" ou comando "ls"
+
+Limpando o comando
+Comando "Ctrl + L" ou comando "cls"
+
+Buscando histórico
+setas para cima ou para baixo
+
+Retornando < pasta
+comando "cd .."
+
+Indo para o diretório
+comando "cd " + diretório
+dica: usar a tecla tab após o espaço para ir automático
+
+Criando pasta
+comando "mkdir" + nome da pasta
+
+Criando arquivo
+echo "texto" > arquivo.txt
+
+Leitura do arquivo
+cat arquivo.txt
+
+Deletar o arquivo
+rm -r arquivo.txt
+

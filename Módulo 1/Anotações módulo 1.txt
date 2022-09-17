@@ -1,0 +1,11 @@
+HTML - Esqueleto
+CSS - Apresentação/ aparência
+JavaScript - Interação/ ação
+
+Bootstrap - Framework (conjunto de códigos prontos)
+jQuery - Biblioteca e porções de códigos para JavaScript
+Gulp/ Grunt - Ferramentas para automação de tarefas
+Sass/ Less - Prés-processadores CSS (auxiliam na escrita e operações de programação)
+TypeScript - Adiciona recursos e parâmetros para deixar o código mais legível e seguro
+Vue - Construção de interfaces (frameworks)
+React - Frameworks

@@ -1,0 +1,25 @@
+Abrindo o VS code escolha o diretório
+
+No site keepchange log https://keepachangelog.com/ copie:
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.0.0] - 2017-06-20
+### Added
+
+inclua abaixo da linha added
+- added changelog.md
+**md = Markdown
+
+F1 -> Terminal - Create new terminal
+abrirá o CMD
+git status para  verificar como está
+
+Para realizar o commit dentro do VScode vá no terceiro item
+Clique no sinal de "+" ao lado do arquivo
+E em seguida escreva a mensagem da alteração e clique em "Check"

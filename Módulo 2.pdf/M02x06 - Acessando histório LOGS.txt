@@ -1,0 +1,18 @@
+no PowerShell na pasta criada, para verificar os históricos digite
+git log
+
+Para acessar os últimos comandos escreva
+git log -n 3
+** o número é quantas modificações você quer acessar
+
+Para acessar as modificações simplificadas
+git log --oneline
+
+Para mostrar os arquivos que foram modificados de forma completa
+git --stat
+
+Podemos mesclar os comandos
+git log -n 3 --oneline
+
+Para verificar o histórico de mudança no VScode, baixe a extensão Git History
+Na linha de código, aperte F1 e vá no Git History

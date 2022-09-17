@@ -1,0 +1,13 @@
+Nomenclaturas
+
+Chore - pequena tarefa
+git commit -m "chore: removendo arquivo.txt"
+
+Fix - correções
+git commit -m "fix: corrigindo arquivo nas médias"
+
+Feat - inclusão de funcionalidade
+git commit -m "feat: inclusão de calculo novo"
+
+Docs - atualização de documentação
+git commit -m "docs: atualizando o changelog.md"

@@ -1,0 +1,18 @@
+para verificar a lista de branchs
+git branch
+
+Para criar branch
+git branch "nome"
+
+Para mudar para a branch
+git checkout "nome"
+
+Para mudar para a branch e criar ao mesmo tempo
+git checkout -b "nome"
+**-b vem de "branch"
+
+Para criar a branch e herdar as branchs anteriores usamos
+git branch "arquivo_novo" "arquivo_a_ser_herdado"
+
+para deletar a branch
+git branch -D "nomedabranch"

@@ -1,0 +1,10 @@
+Para desfazer uma modificação antes de realizar o commit, utilize o comando:
+git checkout "arquivo.txt"
+ou
+git checkout + número do log
+** para verificar o número podemos usar o git log --oneline
+
+Para desfazer a modificação no git
+git revert HEAD + número do log
+HEAD: onde será feito a reversão
+-- Em seguida surgirá a tela, escreva a descrição do commit e salve (Ctrl + O, etc)

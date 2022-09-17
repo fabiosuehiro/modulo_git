@@ -1,0 +1,5 @@
+Módulo 1, exercício - Introdução ao desenvolvimento Front-end
+
+Resposta do aluno:
+
+Conforme explicado pelo professor Gean, o HTML (HyperText Markup Language) seria o "esqueleto" da programação, ou seja, a base. O CSS (Cascading Style Sheets) é o que estilo ao código (podemos dizer que ele age na aparência e apresentação). E a linguagem Javascript é o que faz a interação/ ação com o usuário.

@@ -1,0 +1,18 @@
+Adicionando os arquivos ao stage
+git commit
+
+Escreva acima sobre a atualização, após escrever..
+Para salvar "Ctrl + O" e aperte "enter"
+Para sair da tela aperte "Ctrl + X"
+
+Para alterar o arquivo
+echo "ola tudo bem" > arquivo.txt
+git add arquivo.txt
+
+Para simplificar e salvar (unstage)
+git commit -m "alterando o arquivo do conteúdo"
+
+Para simplificar e salvar (stage)
+git commit -am "alterando o arquivo 2"
+
+

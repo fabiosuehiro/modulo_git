@@ -1,0 +1,23 @@
+Criando o usuário no git
+
+git config --global user.name "Fabio Suehiro"
+git config --global user.email "suehirofabio@gmail.com"
+
+Acessar a pasta criada e inicie
+git init .
+
+para os arquivos e criando exemplos:
+echo "ola" > arquivo.txt
+
+Verificar como está o status dos arquivos na pasta
+git status
+**Se aparecer arquivo em vermelho, não está adicionado
+
+Para adicionarmos usar o comando
+git add arquivo.txt
+
+Para adicionar todos os arquivos
+git add .
+
+Para remover o arquivo do git
+git rm --cached arquivo.txt
